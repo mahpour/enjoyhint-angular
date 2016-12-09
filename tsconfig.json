@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "outFile": "./enjoyhint-angular.js",
+        "emitDecoratorMetadata": true,
+        "sourceRoot": "./src/",
+        "sourceMap": true,
+        "rootDir": "./",
+        "target": "es5"  
+    },
+    "compileOnSave": true,    
+    "files": [   
+        "src/enjoyhint-ngClick.directive.ts"     
+    ]
+}
